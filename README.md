@@ -11,7 +11,7 @@ I'm **[`Lalson Sebastian`](https://drive.google.com/file/d/1acGbHxbGs-gHQvTbFbDu
 - **From**:  UAE
 - **Data Scientist** | **Data Analyst** | **IT Support Engineer**
 - I have experience in Data Visualizing, Data Cleaning and Python (Machine Learning)
-- Continuously improving my knowledge of **Data Science** and **Data Analytics**.
+- Continuously improving my knowledge in **Data Science** and **Data Analytics**.
 
 </details>
 <br>
