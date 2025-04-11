@@ -67,11 +67,10 @@ I'm **[`Lalson Sebastian`](https://drive.google.com/file/d/1acGbHxbGs-gHQvTbFbDu
 | **[Project 3](https://github.com/)**    | Short Description | 
 
 
-| **Project**      | **Description**                                                                                  |
+| **Tableau Projects**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Project 1](https://github.com/LalsonS/PowerBI)**    | Short Description |
-| **[Project 2](https://github.com/)**    | Short Description |
-| **[Project 3](https://github.com/)**    | Short Description | 
+| **[Tableau Profile](https://github.com/LalsonS/Tableau)**    | I showcase here a collection of interactive dashboards and visual analytics projects. |
+|
 
 
 | **Project**      | **Description**                                                                                  |
