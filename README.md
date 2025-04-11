@@ -62,7 +62,7 @@ I'm **[`Lalson Sebastian`](https://drive.google.com/file/d/1acGbHxbGs-gHQvTbFbDu
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Project 1](https://github.com/)**    | Short Description |
+| **[Project 1](https://github.com/LalsonS/PowerBI)**    | Short Description |
 | **[Project 2](https://github.com/)**    | Short Description |
 | **[Project 3](https://github.com/)**    | Short Description | 
 
