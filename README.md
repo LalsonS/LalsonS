@@ -70,7 +70,6 @@ I'm **[`Lalson Sebastian`](https://drive.google.com/file/d/1acGbHxbGs-gHQvTbFbDu
 | **Tableau Projects**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **[Tableau Profile](https://github.com/LalsonS/Tableau)**    | I showcase here a collection of interactive dashboards and visual analytics projects. |
-|
 
 
 | **Project**      | **Description**                                                                                  |
