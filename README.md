@@ -64,7 +64,6 @@ I'm **[`Lalson Sebastian`](https://drive.google.com/file/d/1acGbHxbGs-gHQvTbFbDu
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **[Project 1](https://github.com/LalsonS/PowerBI)**    | This repository contains a Power BI report focused on time series analysis of business day data. |
 | **[Project 2](https://github.com/LalsonS/PowerBI-2)**    | It provides a comprehensive analysis of key manufacturing metrics including production efficiency, downtime analysis, defect rates, and operational performance |
-| **[Project 3](https://github.com/)**    | Short Description | 
 
 
 | **Tableau Projects**      | **Description**                                                                                  |
